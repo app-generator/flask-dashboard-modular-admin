@@ -1,0 +1,81 @@
+
+  <div class="card">
+      <header class="auth-header">
+          <h1 class="auth-title">
+              <div class="logo">
+                  <span class="l l1"></span>
+                  <span class="l l2"></span>
+                  <span class="l l3"></span>
+                  <span class="l l4"></span>
+                  <span class="l l5"></span>
+              </div>
+              <a href="https://appseed.us/admin-dashboards/flask-dashboard-modular-admin">Flask Modular Admin</a>
+          </h1>
+      </header>
+      <div class="auth-content">
+          <p class="text-center">
+
+              {% if msg %}
+                {{ msg | safe }}
+              {% else %}
+                SIGNUP
+              {% endif %}
+
+          </p>
+
+          <form method="post" novalidate="">
+
+              {{ form.hidden_tag() }}
+
+              <div class="form-group">
+                  <label for="firstname">Name</label>
+                  <div class="row">
+                      <div class="col-sm-12">
+                          {{ form.name(placeholder="Friendly Name", class="form-control underlined") }}
+                      </div>
+                  </div>
+              </div>
+
+              <div class="form-group">
+                  <label for="firstname">Username</label>
+                  <div class="row">
+                      <div class="col-sm-12">
+                          {{ form.username(placeholder="Username",class="form-control underlined") }}
+                      </div>
+                  </div>
+              </div>
+
+              <div class="form-group">
+                  <label for="email">Email</label>
+                  {{ form.email(placeholder="eMail Address",class="form-control underlined") }}
+              </div>
+
+              <div class="form-group">
+                  <label for="password">Password</label>
+                  <div class="row">
+                      <div class="col-sm-12">
+                          {{ form.password(placeholder="Password", class="form-control underlined", type="password") }}
+                      </div>
+                  </div>
+              </div>
+
+              <div class="form-group">
+                  <label for="agree">
+                      <input class="checkbox" name="agree" id="agree" type="checkbox">
+                      <span>Agree the terms and <a href="#">policy</a></span>
+                  </label>
+              </div>
+              <div class="form-group">
+                  <button type="submit" class="btn btn-block btn-primary">Sign Up</button>
+              </div>
+              <div class="form-group">
+                  <p class="text-muted text-center">Already have an account? <a href="/login.html">Login</a></p>
+              </div>
+          </form>
+      </div>
+  </div>
+  <div class="text-center">
+      <a href="https://appseed.us/support" class="btn btn-secondary btn-sm">
+          <i class="fa fa-rocket"></i> &nbsp; Get Support</a>
+  </div>
+

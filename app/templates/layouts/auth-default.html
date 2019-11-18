@@ -1,0 +1,62 @@
+<!doctype html>
+<html class="no-js" lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+        {% if title %}    
+            <title>{{ title }}</title>
+        {% else %}
+            <title>Flask Dashboard ModularAdmin - Open-Source Admin Panel | AppSeed</title>
+        {% endif %}
+
+        {% if description %}    
+            <meta name="description" content="{{ description }}">
+        {% else %}
+            <meta name="description" 
+                  content="Open-Source Admin Dashboard with Modular Admin Design coded in Flask. Features: SQLite, ORM and session-based authentication.">
+        {% endif %}
+
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+        <!-- Place favicon.ico in the root directory -->
+        <link rel="stylesheet" href="/static/assets/css/vendor.css">
+        <link rel="stylesheet" href="/static/assets/css/app.css">
+        <!-- Theme initialization -->
+        <script>
+            var themeSettings = (localStorage.getItem('themeSettings')) ? JSON.parse(localStorage.getItem('themeSettings')) :
+            {};
+            var themeName = themeSettings.themeName || '';
+            if (themeName)
+            {
+                document.write('<link rel="stylesheet" id="theme-style" href="/static/assets/css/app-' + themeName + '.css">');
+            }
+            else
+            {
+                document.write('<link rel="stylesheet" id="theme-style" href="/static/assets/css/app.css">');
+            }
+        </script>
+    </head>
+    <body>
+
+        <div class="auth">
+            <div class="auth-container">
+
+                {{ content | safe }}
+
+            </div>
+        </div>
+
+        <!-- Reference block for JS -->
+        <div class="ref" id="ref">
+            <div class="color-primary"></div>
+            <div class="chart">
+                <div class="color-primary"></div>
+                <div class="color-secondary"></div>
+            </div>
+        </div>
+
+        {% include 'includes/scripts.html' %}
+        
+    </body>
+</html>
