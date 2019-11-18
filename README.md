@@ -1,6 +1,6 @@
 # [Flask Dashboard ModularAdmin](https://appseed.us/admin-dashboards/flask-dashboard-modular-admin)
 
-**[Open-Source Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-modular-admin)** coded in **Flask Web Framework** on top of **ModularAdmin Dashboard** design, crafted by Creative-Tim agency. **Dashboard** features:
+**[Open-Source Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-modular-admin)** coded in **Flask Web Framework** on top of **ModularAdmin Dashboard** design. **Dashboard** features:
 
 <br />
 
