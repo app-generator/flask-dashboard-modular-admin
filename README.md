@@ -7,7 +7,7 @@
 - SQLite database
 - SQLAlchemy ORM
 - Session-Based authentication flow (login, register)
-- UI Kit: [ModularAdmin](https://github.com/modularcode/modular-admin-html/)
+- UI Kit: [ModularAdmin](https://github.com/app-generator/fork-modular-admin-html)
 
 <br />
 
