@@ -1,8 +1,6 @@
 # [Flask Dashboard ModularAdmin](https://appseed.us/admin-dashboards/flask-dashboard-modular-admin)
 
-**[Open-Source Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-modular-admin)** coded in **Flask Web Framework** on top of **ModularAdmin Dashboard** design. **Dashboard** features:
-
-<br />
+**[Open-Source Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-modular-admin)** coded in **Flask  Framework** on top of **ModularAdmin** design. **Features**:
 
 - SQLite database
 - SQLAlchemy ORM
