@@ -65,9 +65,9 @@ $ # Access the app in browser: http://127.0.0.1:5000/
 
 ## Resources
 
-- [Flask Dashboard ModularAdmin](https://appseed.us/admin-dashboards/flask-dashboard-modular-admin) - Product page
-- [Flask Dashboard ModularAdmin](https://docs.appseed.us/admin-dashboards/flask-dashboard-modular-admin) - Documentation
-- [Flask Dashboard ModularAdmin](https://flask-dashboard-modular-admin.appseed.us/) - Live DEMO
+- [Flask Dashboard Modular Admin](https://appseed.us/admin-dashboards/flask-dashboard-modular-admin) - Product page
+- [Flask Dashboard Modular Admin](https://docs.appseed.us/admin-dashboards/flask-dashboard-modular-admin) - Documentation
+- [Flask Dashboard Modular Admin](https://flask-dashboard-modular-admin.appseed.us/) - Live DEMO
 - [Flask Framework](https://www.palletsprojects.com/p/flask/) - The offcial website
 - [Flask Dashboard - Open-Source Boilerplates](https://dev.to/sm0ke/flask-dashboard-open-source-boilerplates-dkg) - A popular article published on Dev.to platform
 - [Flask Dashboard](https://admin-dashboards.com/tags/flask-dashboard) - Index provided by **Admin-Dashboards.com**
