@@ -18,7 +18,11 @@
               {% if msg %}
                 {{ msg | safe }}
               {% else %}
-                LOGIN
+              <span>
+                Use default credentials: test / pass
+                <br />
+                OR <a href="/register.html" >create your own user</a>
+              </span>
               {% endif %}
 
             </p>

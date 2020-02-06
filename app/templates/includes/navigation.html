@@ -26,6 +26,7 @@
               </a>
           </div>
           <div class="header-block header-block-nav">
+            {% if current_user.is_authenticated %}
               <ul class="nav-profile">
                   <li class="notifications new">
                       <a href="" data-toggle="dropdown">
@@ -99,5 +100,6 @@
                       </div>
                   </li>
               </ul>
+            {% endif %}
           </div>
       </header>
