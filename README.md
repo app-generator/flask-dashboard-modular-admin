@@ -8,7 +8,7 @@
 - SQLAlchemy ORM
 - Session-Based authentication flow (login, register)
 - Forms validation
-- UI Kit: **[Modular Admin Dashboard](https://flask-dashboard-modular-admin.appseed.us/login)** (Free version) provided by **ModularCode**
+- UI Kit: **[Modular Admin Dashboard](https://flask-dashboard-modular-admin.appseed.us/login)** (Free version) provided by **[ModularCode](https://modularcode.io/?ref=appseed)**
 - **MIT License**
 - Support: Free support via **Github** and (Paid) **24/7 LIVE Support** via [Discord](https://discord.gg/fZC6hup)
 
@@ -160,7 +160,7 @@ In information technology, a **[dashboard](https://en.wikipedia.org/wiki/Dashboa
 
 ### [Modular Admin](https://github.com/modularcode/modular-admin-html)
 
-ModularAdmin - an open-source dashboard theme built in a modular way. That makes it extremely easy to scale, modify and maintain - provided by ModularCode.
+ModularAdmin - an open-source dashboard theme built in a modular way. That makes it extremely easy to scale, modify and maintain - provided by [ModularCode](https://modularcode.io/?ref=appseed).
 
 <br />
 
