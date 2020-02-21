@@ -1,13 +1,24 @@
 # [Flask Dashboard Modular Admin](https://appseed.us/admin-dashboards/flask-dashboard-modular-admin)
 
-**Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)** - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+**Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)** on top of **Modular Admin Dashboard** design (free version) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
 
-### Dashboard Features:
+## Dashboard Features:
 
-- SQLite database
+- UI-Ready, SQLite database
 - SQLAlchemy ORM
 - Session-Based authentication flow (login, register)
-- UI Kit: [ModularAdmin](https://github.com/app-generator/fork-modular-admin-html) by **ModularCode**
+- Forms validation
+- UI Kit: **[Modular Admin Dashboard](https://flask-dashboard-modular-admin.appseed.us/login)** (Free version) provided by **ModularCode**
+- **MIT License**
+- Support: Free support via **Github** and (Paid) **24/7 LIVE Support** via [Discord](https://discord.gg/fZC6hup)
+
+<br />
+
+## Dashboard Links
+
+- [Flask Dashboard Modular Admin](https://appseed.us/admin-dashboards/flask-dashboard-modular-admin) - Product page
+- [Flask Dashboard Modular Admin](https://docs.appseed.us/admin-dashboards/flask-dashboard-modular-admin) - Documentation
+- [Flask Dashboard Modular Admin](https://flask-dashboard-modular-admin.appseed.us/login.html) - LIVE Demo
 
 <br />
 
@@ -135,27 +146,21 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 
 <br />
 
-## Support
+### [Flask Framework](https://www.palletsprojects.com/p/flask/)
 
-- Free support via eMail < [support @ appseed.us](https://appseed.us/support) > and **Github** issues tracker
-- 24/7 Live Support via [Discord](https://discord.gg/fZC6hup) for paid plans and commercial products.
-
-<br />
-
-## Credits & Links
-
-- [Flask Dashboard Modular Admin](https://appseed.us/admin-dashboards/flask-dashboard-modular-admin) - Product page
-- [Flask Dashboard Modular Admin](https://docs.appseed.us/admin-dashboards/flask-dashboard-modular-admin) - Documentation
-- [Flask Dashboard Modular Admin](https://flask-dashboard-modular-admin.appseed.us/) - Live DEMO
-- [Flask Framework](https://www.palletsprojects.com/p/flask/) - The offcial website
-- [Flask Dashboard - Open-Source Boilerplates](https://dev.to/sm0ke/flask-dashboard-open-source-boilerplates-dkg) - A popular article published on Dev.to platform
-- [Flask Dashboard](https://admin-dashboards.com/tags/flask-dashboard) - Index provided by **Admin-Dashboards.com**
+[Flask](/what-is/flask) is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions.
 
 <br />
 
-## License
+### [What is dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))
 
-@MIT
+In information technology, a **[dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))** is a user interface that, somewhat resembling an automobile's dashboard, organizes and presents information in a way that is easy to read. However, a computer dashboard is more likely to be interactive than an automobile dashboard (unless it is also computer-based). To some extent, most graphical user interfaces (GUIs) resemble a dashboard - by [Techtarget](https://searchcio.techtarget.com/definition/dashboard)
+
+<br />
+
+### [Modular Admin](https://github.com/modularcode/modular-admin-html)
+
+ModularAdmin - an open-source dashboard theme built in a modular way. That makes it extremely easy to scale, modify and maintain - provided by ModularCode.
 
 <br />
 
