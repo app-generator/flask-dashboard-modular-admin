@@ -1,4 +1,4 @@
-# [Flask Dashboard Modular Admin](https://appseed.us/admin-dashboards/flask-dashboard-modular-admin)
+# [Flask Dashboard - Modular Admin](https://appseed.us/admin-dashboards/flask-dashboard-modular-admin)
 
 > **Open-Source Admin Dashboard** coded in **Flask Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features:
 
@@ -13,11 +13,11 @@
 
 > Links
 
-- [Flask Dashboard Modular Admin](https://appseed.us/admin-dashboards/flask-dashboard-modular-admin) - Product page
-- [Flask Dashboard Modular Admin](https://docs.appseed.us/admin-dashboards/flask-dashboard-modular-admin) - Documentation
-- [Flask Dashboard Modular Admin](https://flask-dashboard-modular-admin.appseed.us/login.html) - LIVE Demo
-- More [Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask) - index hosted by **AppSeed**
-- [Free Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - index hosted by **AppSeed**
+- [Flask Dashboard - Modular Admin](https://appseed.us/admin-dashboards/flask-dashboard-modular-admin) - Product page
+- [Flask Dashboard Modular Admin Docs](https://docs.appseed.us/admin-dashboards/flask-dashboard-modular-admin) - Documentation
+- [Flask Dashboard Modular Admin Demo](https://flask-dashboard-modular-admin.appseed.us/login.html) - LIVE App
+- More [Flask Dashboards](https://appseed.us/admin-dashboards/flask) - index hosted by **AppSeed**
+- More [Admin Dashboards](https://appseed.us/admin-dashboards) - index hosted by **AppSeed**
 
 <br />
 
@@ -168,4 +168,4 @@ ModularAdmin - an open-source dashboard theme built in a modular way. That makes
 <br />
 
 ---
-**[Flask Dashboard Modular Admin](https://appseed.us/admin-dashboards/flask-dashboard-modular-admin)** - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Flask Dashboard - Modular Admin](https://appseed.us/admin-dashboards/flask-dashboard-modular-admin) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
