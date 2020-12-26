@@ -171,4 +171,4 @@ ModularAdmin - an open-source dashboard theme built in a modular way. That makes
 <br />
 
 ---
-[Flask Dashboard](https://appseed.us/admin-dashboards/flask?ref=gh) Modular Admin - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Flask Dashboard](https://appseed.us/admin-dashboards/flask?ref=gh) Modular Admin - Provided by **AppSeed [App Generator](https://appseed.us/app-generator)**.
