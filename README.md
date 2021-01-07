@@ -21,6 +21,7 @@ ModularAdmin - an open source dashboard theme built in a modular way. That makes
 
 - [Flask Modular Admin](https://appseed.us/admin-dashboards/flask-dashboard-modular-admin) - Product page
 - [Flask Modular Admin Demo](https://flask-dashboard-modular-admin.appseed.us/login.html) - LIVE App
+- [Flask Tutorial](https://github.com/app-generator/tutorial-flask) - Getting started with Flask
 
 <br />
 
